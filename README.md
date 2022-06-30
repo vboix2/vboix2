@@ -3,7 +3,6 @@
 * [Visor d'incendis forestals a Catalunya](https://github.com/vboix2/Incendis-forestals) - Mapa interactiu d'incendis forestals
 * [Barcelona en bicicleta](https://github.com/vboix2/BCN-bici) - Mapa interactiu de vies i serveis per a bicicletes a la ciutat de Barcelona
 * [Incidència de la covid19 a Catalunya](https://github.com/vboix2/covid19catalunya) - Dashboard amb dades diàries de positius, proves PCR, percentatge d'infectats i defuncions per comarca, sexe i grup d'edat
-* [Incidència de la covid19 a Sant Feliu de Llobregat](https://github.com/vboix2/SantFeliu/tree/master/covid19) - Dades diàries i setmanals de positius i sospitosos de covid19 a Sant Feliu de Llobregat
 * [Desenvolupament socioeconòmic als acords de pau](https://github.com/vboix2/Peace-Agreements) - Mapa interactiu dels recursos socioeconòmics pactats als acords de pau des de 1990
 
 ### Apunts
